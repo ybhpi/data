@@ -1,0 +1,61 @@
+{
+    "COMPOSTELA VALLEY": [
+        "COMPOSTELA",
+        "LAAK (SAN VICENTE)",
+        "MABINI (DOÑA ALICIA)",
+        "MACO",
+        "MARAGUSAN (SAN MARIANO)",
+        "MAWAB",
+        "MONKAYO",
+        "MONTEVISTA",
+        "NABUNTURAN",
+        "NEW BATAAN",
+        "PANTUKAN"
+    ],
+    "DAVAO (DAVAO DEL NORTE)": [
+        "ASUNCION (SAUG)",
+        "BRAULIO E. DUJALI",
+        "CARMEN",
+        "TAGUM",
+        "ISLAND GARDEN SAMAL",
+        "KAPALONG",
+        "NEW CORELLA",
+        "PANABO CITY",
+        "SAN ISIDRO",
+        "SANTO TOMAS",
+        "TALAINGOD"
+    ],
+    "DAVAO DEL SUR": [
+        "BANSALAN",
+        "DAVAO CITY",
+        "DIGOS CITY",
+        "HAGONOY",
+        "KIBLAWAN",
+        "MAGSAYSAY",
+        "MALALAG",
+        "MATANAO",
+        "PADADA",
+        "SANTA CRUZ",
+        "SULOP"
+    ],
+    "DAVAO OCCIDENTAL": [
+        "DON MARCELINO",
+        "JOSE ABAD SANTOS (TRINIDAD)",
+        "MALITA",
+        "SANTA MARIA",
+        "SARANGANI"
+    ],
+    "DAVAO ORIENTAL": [
+        "BAGANGA",
+        "BANAYBANAY",
+        "BOSTON",
+        "CARAGA",
+        "CATEEL",
+        "GOVERNOR GENEROSO",
+        "LUPON",
+        "MANAY",
+        "MATI CITY",
+        "SAN ISIDRO",
+        "TARRAGONA"
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "NATIONAL CAPITAL REGION - FOURTH DISTRICT": [
+        "LAS PIÑAS",
+        "MAKATI",
+        "MUNTINLUPA",
+        "PARAÑAQUE",
+        "PASAY CITY"
+    ],
+    "NATIONAL CAPITAL REGION - MANILA": [
+        "BINONDO",
+        "ERMITA",
+        "INTRAMUROS",
+        "MALATE",
+        "PACO",
+        "PANDACAN",
+        "PORT AREA",
+        "QUIAPO",
+        "SAMPALOC",
+        "SAN MIGUEL",
+        "SAN NICOLAS",
+        "SANTA ANA",
+        "SANTA CRUZ",
+        "TONDO"
+    ],
+    "NATIONAL CAPITAL REGION - SECOND DISTRICT": [
+        "MANDALUYONG",
+        "MARIKINA",
+        "PASIG",
+        "QUEZON CITY",
+        "SAN JUAN CITY"
+    ],
+    "NATIONAL CAPITAL REGION - THIRD DISTRICT": [
+        "CALOOCAN CITY",
+        "VALENZUELA",
+        "MALABON CITY",
+        "NAVOTAS CITY"
+    ],
+    "TAGUIG - PATEROS": [
+        "PATEROS",
+        "TAGUIG"
+    ]
+}
