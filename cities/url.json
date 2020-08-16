@@ -1,0 +1,67 @@
+{
+    "regions":[
+        {
+            "name":"Region I", "url":"https://raw.githubusercontent.com/ybhpi/data/master/cities/region1.json"
+        },
+        {
+            "name": "Region II",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region2.json"
+        },
+        {
+            "name": "Region III",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region3.json"
+        },
+        {
+            "name": "Region IV-A",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region4-a.json"
+        },
+        {
+            "name": "Region IV-B",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region4-b.json"
+        },
+        {
+            "name": "Region V",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region5.json"
+        },
+        {
+            "name": "Region VI",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region6.json"
+        },
+        {
+            "name": "Region VII",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region7.json"
+        },
+        {
+            "name": "Region VIII",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region8.json"
+        },
+        {
+            "name": "Region IX",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region9.json"
+        },
+        {
+            "name": "Region X",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region10.json"
+        },
+        {
+            "name": "Region XI",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region11.json"
+        },
+        {
+            "name": "Region XII",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region12.json"
+        },
+        {
+            "name": "Region XIII",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/region13.json"
+        },
+        {
+            "name": "BARMM",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/barmm.json"
+        },
+        {
+            "name": "CAR",
+            "url": "https://raw.githubusercontent.com/ybhpi/data/master/cities/car.json"
+        }
+    ]
+}
